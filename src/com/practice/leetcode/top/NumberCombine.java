@@ -24,7 +24,7 @@ public class NumberCombine {
         hashMap.put(9, "wxyz");
 
         //1拆解输入
-       // String [][]dp = new String[digits.length()][5];
+       // String [][]com.practice.dp = new String[digits.length()][5];
         char c = digits.charAt(0);
         int num = c-'0';
         String s = hashMap.get(num);

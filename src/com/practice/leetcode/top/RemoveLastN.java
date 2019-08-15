@@ -1,6 +1,7 @@
 package com.practice.leetcode.top;
 
-import com.practice.demo1.ListNode;
+
+import com.practice.leetcode.top.entity.ListNode;
 
 public class RemoveLastN {
     public ListNode removeNthFromEnd(ListNode head, int n) {
@@ -23,3 +24,4 @@ public class RemoveLastN {
         return node.next;
     }
 }
+

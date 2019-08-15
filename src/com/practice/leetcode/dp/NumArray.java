@@ -1,3 +1,5 @@
+package com.practice.leetcode.dp;
+
 class NumArray {
 
     int[] sum;
