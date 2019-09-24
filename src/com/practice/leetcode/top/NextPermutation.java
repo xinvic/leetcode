@@ -40,5 +40,6 @@ public class NextPermutation {
         nums[n1] = nums[n2];
         nums[n2] = temp;
     }
+    //d
 }
 
